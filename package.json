@@ -1,0 +1,12 @@
+{
+  "name": "express-microservices-ex",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:jibarradelgado/express-microservices-ex.git",
+  "author": "Jorge Ibarra <hello@jorgeibarra.com.mx>",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^1.4.0",
+    "express": "^4.18.2"
+  }
+}
